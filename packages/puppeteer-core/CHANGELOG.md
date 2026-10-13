@@ -1,5 +1,19 @@
 # Changelog
 
+## [25.13.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.13.0...puppeteer-core-v25.13.1) (2026-10-13)
+
+
+### 🛠️ Fixes
+
+* **screencast:** round the frame size to whole pixels ([#15574](https://github.com/puppeteer/puppeteer/issues/15574)) ([565e584](https://github.com/puppeteer/puppeteer/commit/565e5840ca72160ec70f2e748a63bdbc87c63cc5))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @puppeteer/browsers bumped from 3.2.4 to 3.2.5
+
 ## [25.13.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.12.0...puppeteer-core-v25.13.0) (2026-10-08)
 
 
